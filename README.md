@@ -1,17 +1,16 @@
 # copyup
 
-A command line tool for fetching licenses
+A command line tool for fetching licenses.
 
-```
-is copyup too clever for small brains
+> is copyup too clever for small brains
                            - z64#1337
-```
 
-------------------- 
+-------------------
+
 ## Installation
 
-
 ### From Source
+
 ```sh
 git clone https://github.com/swarley/copyup
 cd copyup
@@ -19,6 +18,7 @@ cargo install --path .
 ```
 
 ### Via `cargo install`
+
 ```sh
 cargo install copyup
 ```
@@ -28,7 +28,6 @@ cargo install copyup
 Obtain the file relevant to you from [releases](https://github.com/swarley/copyup/releases)
 
 -------------------
-
 
 ## Usage
 
@@ -50,7 +49,7 @@ Licenses names are all based on SPDX identifiers and are not case sensitive.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/swarley/copyup.
+Bug reports and pull requests are welcome on GitHub at <https://github.com/swarley/copyup>.
 
 ## License
 
